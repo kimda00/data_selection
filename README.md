@@ -22,3 +22,10 @@ python get_10_each_folder.py
 python ssim_test.py
 
 ```
+
+## 4. make txt files
+``` shell
+# separate folder
+python get_txt_file.py
+
+```
